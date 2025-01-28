@@ -4,12 +4,12 @@ Summary: Ecoeat is an innovative iOS app that utilizes Xcode's CoreML to scan fo
 
 Key Features: 
 
-1) Using CoreML, the food scanner accurately identifies food items and suggests recipes tailored to the scanned ingredients.
+1) Leveraging CoreML, the food scanner precisely identifies food items and recommends recipes customized to the scanned ingredients. When asked about additional ingredients not detected by the scanner but potentially available to the user, it provides insights into the sustainability of each option.
 2) Each recipe comes with a sustainability rating that highlights the environmental impact of the ingredients. In the future users will be able to learn more about how the sustainability rating is calculated.
 3) Don't want to use the food scanner? Swipe left or right on recipes, with a recipe search system that resembles Tinder.
 4) View saved recipes from swiping or scanning!
 
-Screenshots: 
+Screen Recording Preview: 
 
 <div>
     <a href="https://www.loom.com/share/a9b68025b0194f14b239b6fcf79f53ef">
@@ -19,3 +19,4 @@ Screenshots:
     </a>
   </div>
 
+Full Video: https://www.loom.com/embed/a9b68025b0194f14b239b6fcf79f53ef?sid=bb6dbb96-7438-47ac-979c-
