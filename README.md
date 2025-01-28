@@ -11,5 +11,12 @@ Key Features:
 
 Screenshots: 
 
-<div style="position: relative; padding-bottom: 216.4785553047404%; height: 0;"><iframe src="https://www.loom.com/embed/523ca1a405474b69b863b155886b8fe9?sid=02c17572-a7d8-40b9-893a-4081343c3ff7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/a9b68025b0194f14b239b6fcf79f53ef">
+      iOS recording - 27 Jan 2025 - Watch Video
+    </a>
+    <a href="https://www.loom.com/share/a9b68025b0194f14b239b6fcf79f53ef">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a9b68025b0194f14b239b6fcf79f53ef-c31fcd05eaa70526-full-play.gif">
+    </a>
+  </div>
 
