@@ -10,3 +10,6 @@ Key Features:
 4) View saved recipes from swiping or scanning!
 
 Screenshots: 
+
+<div style="position: relative; padding-bottom: 216.4785553047404%; height: 0;"><iframe src="https://www.loom.com/embed/523ca1a405474b69b863b155886b8fe9?sid=02c17572-a7d8-40b9-893a-4081343c3ff7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
