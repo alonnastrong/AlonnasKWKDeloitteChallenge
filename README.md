@@ -13,7 +13,6 @@ Screenshots:
 
 <div>
     <a href="https://www.loom.com/share/a9b68025b0194f14b239b6fcf79f53ef">
-      iOS recording - 27 Jan 2025 - Watch Video
     </a>
     <a href="https://www.loom.com/share/a9b68025b0194f14b239b6fcf79f53ef">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a9b68025b0194f14b239b6fcf79f53ef-c31fcd05eaa70526-full-play.gif">
