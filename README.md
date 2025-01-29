@@ -1,5 +1,7 @@
 README
 
+If you're a judge please also review the attached screen recording, its a bit different from my OG submission on the given fourm. I was rushing and didn't show the programs ability to recognize different items, only scanning one. Oops! 
+
 Summary: Ecoeat is an innovative iOS app that utilizes Xcode's CoreML to scan food items placed in front of the camera and provides personalized recipe recommendations based on the identified ingredients.
 
 Key Features: 
